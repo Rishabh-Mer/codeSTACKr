@@ -32,6 +32,7 @@
 <img align="left" alt="Matplotlib" width="26px" src="https://avatars0.githubusercontent.com/u/215947?s=200&v=4" />
 <img align="left" alt="Plotly" width="26px" src="https://avatars2.githubusercontent.com/u/5997976?s=200&v=4" />
 <img align="left" alt="Pandas" width="26px" src="https://avatars1.githubusercontent.com/u/21206976?s=200&v=4" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />

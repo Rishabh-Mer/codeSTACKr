@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python and Machine Learning 
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2020 Goals: Developing a Project using ML,AI....
-- ⚡ Fun fact: I love to Reading 📚, Tech 👨‍💻 and Comics 💭
+- ⚡ Fun fact: I love Reading 📚, Tech 👨‍💻 and Comics 💭
 
 <!-- 
 ### Spotify Playing 🎧
@@ -27,6 +27,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Anaconda" width="26px" src="https://i.imgur.com/jaKbpQS.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Numpy" width="26px" src="https://avatars3.githubusercontent.com/u/288276?s=200&v=4" />
 <img align="left" alt="Matplotlib" width="26px" src="https://avatars0.githubusercontent.com/u/215947?s=200&v=4" />

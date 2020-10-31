@@ -1,6 +1,6 @@
 ### Hi there, I'm Rishabh 👋
 
-[![Website](https://img.shields.io/website?label=rishabh.codes&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rishabh.codes/)
+[![Website](https://img.shields.io/website?label=rishabh.codes&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://devdb.io/rishabh)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishabh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=mer_rishabh)
 
 ## I'm a Student and Developer!
@@ -42,7 +42,7 @@
 <br />
 <br />
 
-[website]: https://rishabh.codes
+[website]: https://devdb.io/rishabh
 [twitter]: https://twitter.com/mer_rishabh
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://instagram.com/rishabh_2110_

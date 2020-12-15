@@ -31,6 +31,7 @@
 <img align="left" alt="Anaconda" width="26px" src="https://i.imgur.com/jaKbpQS.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Numpy" width="26px" src="https://avatars3.githubusercontent.com/u/288276?s=200&v=4" />
 <img align="left" alt="Matplotlib" width="26px" src="https://avatars0.githubusercontent.com/u/215947?s=200&v=4" />
 <img align="left" alt="Plotly" width="26px" src="https://avatars2.githubusercontent.com/u/5997976?s=200&v=4" />

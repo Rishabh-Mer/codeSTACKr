@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=rishabh.codes&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://devdb.io/rishabh)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishabh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=mer_rishabh)
 
-## I'm a Student and Developer!
+## I'm a Developer!
 
 - 🌱 I’m currently learning Python and Machine Learning 
 - 👯 I’m looking to collaborate with other Developers

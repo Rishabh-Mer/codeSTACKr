@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Python and Machine Learning 
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Developing a Project using ML,AI....
+- 🥅 2021 Goals: Developing a Project in Python, AL and ML
 - ⚡ Fun fact: I love Reading 📚, Tech 👨‍💻 and Comics 💭
 
 <!-- 
@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rishabh.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="rishabh.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="rishabh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="mer_rishabh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="rishabhmer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

@@ -1,14 +1,15 @@
-### Hi there, I'm Rishabh 👋
+# <center>Hello World</center>
+## Hello Rishabh, I'm a data scientist with a passion for developing deep and machine learning models to extract meaningful insights from data.
 
-<!-- [![Website](https://img.shields.io/website?label=rishabh.codes&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://devdb.io/rishabh) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/rishabh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=mer_rishabh)
+[![Portfolio](https://img.shields.io/website?label=rishabh.codes&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rishi21sat.wixsite.com/rishabh-codes)
+[![Twitter](https://img.shields.io/twitter/follow/rishabh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=mer_rishabh)
 
-## I'm a Developer!
+## Here is what I'm working on!
 
-- 🌱 I’m currently learning Python and Machine Learning 
-<!-- - 👯 I’m looking to collaborate with other Developers -->
+* 🌱 I’m currently working on learning Deep and Machine Learning
+*  👯 I’m looking to collaborate with other Developers
 <!-- - 🥅 2022 Goals: Developing a Project in Python, AL and ML -->
-- ⚡ Fun fact: I love Reading 📚, Tech 👨‍💻 and Comics 💭
+* ⚡ Fun fact: I love Reading 📚, Listening Podcast, Tech 👨‍💻 and Comics 💭
 
 <!-- 
 ### Spotify Playing 🎧
@@ -21,7 +22,10 @@
 [<img align="left" alt="mer_rishabh | Twitter" width="22px" src="https://img.icons8.com/color/72/twitter--v2.gif" />][twitter]
 [<img align="left" alt="rishabhmer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rishabh | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt="rishabh_2110_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="rishabh | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
+<!-- [<img align="left" alt="rishabh_2110_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+
 
 <br />
 
@@ -41,12 +45,13 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/PyTorch.png" />
 <br />
 <br />
 
-[website]: https://devdb.io/rishabh
+[website]: https://rishi21sat.wixsite.com/rishabh-codes
 [twitter]: https://twitter.com/mer_rishabh
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://instagram.com/rishabh_2110_
 [linkedin]: https://linkedin.com/in/rishabhmer
 [kaggle]: https://www.kaggle.com/rishabh2110
+[medium]: https://medium.com/@Rishabh.Mer
